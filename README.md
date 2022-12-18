@@ -42,14 +42,15 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oliveirauallace}/count.svg" /></p> 
 <br></div>
-  
+ 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!--
 **oliveirauallace/oliveirauallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
