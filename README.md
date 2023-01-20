@@ -37,7 +37,7 @@
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)&nbsp;
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![ADVPL](https://img.shields.io/badge/-ADVPL-0D1117?style=for-the-badge&logo=ADVPL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
